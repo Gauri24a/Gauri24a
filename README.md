@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Gauri 👋  
 
-<!--
-**Gauri24a/Gauri24a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science engineering student who builds real-world software systems.
 
-Here are some ideas to get you started:
+What I work on:
+- Full-stack web applications
+- AI-powered products
+- Backend APIs and databases
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current focus:
+- Data Structures & Algorithms
+- System Design
+- Open Source
+
+Featured Projects:
+- (I will add projects here soon)
+
+Tech Stack:
+Java, Python, JavaScript, React, Machine Learning, SQL, Git
