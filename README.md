@@ -1,19 +1,18 @@
-## Hi, I'm Gauri 👋  
+# 💫 About Me:
+🔭 I’m currently working on<br>A major academic project focused on building a NEET Counselling Choice Optimizer and Process Navigator.<br><br>🤝 I’m looking to collaborate on<br>Full-stack web development projects and data-driven applications.<br><br>🛠 I’m looking for help with<br>Improving optimization logic, backend structuring, and writing clean, maintainable code.<br><br>🌱 I’m currently learning<br>React.js, Node.js, PostgreSQL, and how to design scalable web applications.<br><br>💬 Ask me about<br>Academic projects, full-stack development basics, and structuring technical documentation.<br><br>⚡ Fun fact<br>I enjoy finding unique ideas and building projects that stand out.
 
-I am a Computer Science engineering student who builds real-world software systems.
 
-What I work on:
-- Full-stack web applications
-- AI-powered products
-- Backend APIs and databases
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gauri-agarwal-17581831b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gauriagarwal0805@gmail.com) 
 
-Current focus:
-- Data Structures & Algorithms
-- System Design
-- Open Source
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Gauri24a&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Gauri24a&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauri24a&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Featured Projects:
-- (I will add projects here soon)
+---
+[![](https://visitcount.itsvg.in/api?id=Gauri24a&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Tech Stack:
-Java, Python, JavaScript, React, Machine Learning, SQL, Git
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
