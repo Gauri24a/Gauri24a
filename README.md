@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>A major academic project focused on building a NEET Counselling Choice Optimizer and Process Navigator.<br><br>🤝 I’m looking to collaborate on<br>Full-stack web development projects and data-driven applications.<br><br>🛠 I’m looking for help with<br>Improving optimization logic, backend structuring, and writing clean, maintainable code.<br><br>🌱 I’m currently learning<br>React.js, Node.js, PostgreSQL, and how to design scalable web applications.<br><br>💬 Ask me about<br>Academic projects, full-stack development basics, and structuring technical documentation.<br><br>⚡ Fun fact<br>I enjoy finding unique ideas and building projects that stand out.
+🔭 I’m looking to collaborate on<br>Full-stack web development projects and data-driven applications.<br><br>🛠 I’m looking for help with<br>Improving optimization logic, backend structuring, and writing clean, maintainable code.<br><br>🌱 I’m currently learning<br>React.js, Node.js, PostgreSQL, and how to design scalable web applications.<br><br>💬 Ask me about<br>Academic projects, full-stack development basics, and structuring technical documentation.<br><br>⚡ Fun fact<br>I enjoy finding unique ideas and building projects that stand out.
 
 
 ## 🌐 Socials:
